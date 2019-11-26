@@ -1,3 +1,3 @@
-# cop1044SPC
-Notebook repository for COP1044
-Introduction to Data Science with Python
+# Titan Coders
+Notebook repository for SPC Titan Coders Team as preparation for the Florida Intercollegiate Computer Programming Competition.
+
